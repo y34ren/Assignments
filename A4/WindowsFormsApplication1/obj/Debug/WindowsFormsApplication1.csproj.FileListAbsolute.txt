@@ -1,0 +1,9 @@
+D:\文件\C++\A4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\文件\C++\A4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\文件\C++\A4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\文件\C++\A4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\文件\C++\A4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\文件\C++\A4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\文件\C++\A4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\文件\C++\A4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\文件\C++\A4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
